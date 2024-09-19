@@ -2,7 +2,7 @@
 
 - 👨‍💻 Hoje trabalho com front-end, back-end, automação de testes e analise de dados com Python
 - 📘 Estou estudando TypeScript ...
-- 👨‍🎓 Técnico em Programação Desenvolvimento de Jogos Digitais
+- 👨‍🎓 Técnico em Programação e Desenvolvimento de Jogos Digitais
 - 👨‍🎓 Cursando ADS 'Analise e Desenvolvimento de Sistemas'
 - 👨‍🏫 Dou aulas particulares de Desenvolvimento WEB, Python e Jogos
 - 😄 Pronouns: ele/dele ...
