@@ -8,8 +8,8 @@
 - 😄 Pronouns: ele/dele ...
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SrHendrix&show_icons=true&theme=dracula">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrHendrix&layout=compact&langs_count=16&theme=dracula">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=SrHendrix&show_icons=true&theme=dracula">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrHendrix&layout=compact&langs_count=16&theme=dracula">
 </div>
 
 <div style="display:inline-block"><br>
