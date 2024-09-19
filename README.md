@@ -5,8 +5,8 @@
 - 😄 Pronouns: ele/dele ...
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrHendrix&show_icons=true&theme=dracula">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrHendrix&layout=compact&langs_count=16&theme=dracula">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SrHendrix&show_icons=true&theme=dracula">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrHendrix&layout=compact&langs_count=16&theme=dracula">
 </div>
 
 <div style="display:inline-block"><br>
@@ -21,7 +21,9 @@
   <img align="center" alt="Hendrix-CSS" height="50" width="50" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000">
 </div>
 
-<hr>
+##
+
+## Contate-me!! ✍
 
 <div>
   <a href="" target="_blank"><img width="200px" height="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
